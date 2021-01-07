@@ -1,0 +1,4 @@
+Django
+scrapy
+beautifulsoup4
+django-extensions
